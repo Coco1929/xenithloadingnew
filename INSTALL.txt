@@ -1,0 +1,29 @@
+#Server requirements for software installation.
+ - Apache
+ - PHP 7.1+
+ - MySQL Server
+ - PHP Extensions: BCMath, JSON, PDO, XML, Zip
+ 
+#How to install?
+
+Video guide: https://media.gmodstore.com/_/script_media/4d4d44aa3271d8543882053acdc1be87.mp4
+
+1.First of all, make sure that your server matches the requirements:
+
+- Apache
+- PHP 7.1+
+- MySQL Server
+- PHP Extensions: BCMath, JSON, PDO, XML, Zip
+
+2. Then unzip the contents of the downloaded archive to the root of the folder of your domain and go to the site.
+
+(!) It is very important that the files were in the root folder.
+If you need to separate the screen from the site or another script on the main domain, simply create a subdomain (for example, loadindscreen.site.com) This is a free service and it will not take a lot of time.
+
+3. You will see the installation script window. Follow the installation wizard.
+
+4.Carefully check all the data that you enter - if you enter incorrect data, the installation process will have to start over.
+
+5.In the final window of the installation wizard, you will need to enter data from the administrator account. Write down the data so as not to forget.
+
+#Congratulations, you installed Galaxy Tools.#

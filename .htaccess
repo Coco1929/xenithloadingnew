@@ -1,0 +1,4 @@
+
+RewriteEngine On
+RewriteCond $1 !^(index\.php|inc|pub|install)
+RewriteRule ^(.*)$ index.php [L]
